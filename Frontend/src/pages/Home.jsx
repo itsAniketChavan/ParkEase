@@ -1,14 +1,14 @@
 import React from "react";
-import heroImg01 from "../assets/images/hero-img01.png";
-import heroImg02 from "../assets/images/hero-img02.png";
-import heroImg03 from "../assets/images/hero-img03.png";
+import heroImg01 from "../assets/images/volkswagen1.png";
+import heroImg02 from "../assets/images/pa1.png";
+import heroImg03 from "../assets/images/pa3.png";
 import icon01 from "../assets/images/icon01.png";
 import icon02 from "../assets/images/icon02.png";
 import icon03 from "../assets/images/icon03.png";
-import featureImg from "../assets/images/feature-Img.png";
+import featureImg from "../assets/images/volkswagen2.png";
 import videoIcon from "../assets/images/video-icon.png";
 import avatorImg from "../assets/images/avatar-icon.png";
-import faqImg from "../assets/images/faq-Img.png";
+import faqImg from "../assets/images/car7.jpg";
 
 import { Link } from "react-router-dom";
 import { BsArrowRight } from "react-icons/bs";
@@ -320,8 +320,8 @@ const Home = () => {
       <section>
         <div className="container">
           <div className="flex justify-between gap-[50px] lg:gap-0">
-            <div className="w-1/2 hidden md:block">
-              <img src={faqImg} alt="" />
+            <div className="w-1/2 hidden md:block pt-20">
+              <img src={faqImg} alt=""   />
             </div>
 
             <div className="w-full md:w-1/2">

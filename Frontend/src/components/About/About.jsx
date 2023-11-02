@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImg from "../../assets/images/about.png";
+import aboutImg from "../../assets/images/car11.png";
 import aboutCardImg from "../../assets/images/aboutCardImg.png";
 import {Link} from 'react-router-dom';
 
@@ -16,7 +16,7 @@ const About = () => {
               className="absolute z-20 bottom-4 w-[200px] md:w-[300px] right-[-30] md:right-[-7%] 
                 lg:right-[22%]"
             >
-              <img src={aboutCardImg} alt="" />
+              {/* <img src={aboutCardImg} alt="" /> */}
             </div>
           </div>
 

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import userImg from "../../assets/images/doctor-img01.png";
+import userImg from "../../assets/images/profile_photo.png";
 import { useContext } from "react";
 import { authContext } from "../../context/AuthContext";
 import MyBookings from "./MyBookings";
@@ -66,11 +66,11 @@ const MyAccount = () => {
             <div className="mt-[50px] md:mt-[100px] ">
               <button
                 onClick={handleLogout}
-                className="w-full bg-[#181A1E] p-3 text-[16px] leading-7 rounded-md text-white"
+                className="w-full bg-[#181A1E] p-3 text-[16px] leading-7 rounded-md text-white  transition-all hover:bg-gray-700"
               >
                 Logout
               </button>
-              <button className="w-full bg-red-600 mt-4 p-3 text-[16px] leading-7 rounded-md text-white">
+              <button className="w-full bg-red-600 mt-4 p-3 text-[16px] leading-7 rounded-md text-white transition-all hover:bg-red-800">
                 Delete Account
               </button>
             </div>

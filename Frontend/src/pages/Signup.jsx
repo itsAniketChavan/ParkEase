@@ -21,13 +21,19 @@ const Signup = () => {
     photo: selectedFile,
     gender: "",
     role: "patient",
+    parkingName: '',
+    slotsAvailable: '',
   });
+
+  const isOwner = formData.role === 'doctor';
 
   const handleInputChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
   const handleFileInputChange = async (event) => {
+
+
     const file = event.target.files[0];
     //Later we will use cloudnary to upload images
 
@@ -129,7 +135,7 @@ const Signup = () => {
               </div>
 
               <div className="mb-5 flex items-center justify-between">
-                <label className="text-headingColor font-bold text-[16px] leading-7">
+                {/* <label className="text-headingColor font-bold text-[16px] leading-7">
                   Are you a :
                   <select
                     name="role"
@@ -138,10 +144,59 @@ const Signup = () => {
                     className="text-textColor font-semibold text-[15px] leading-7 px-4
                   py-3 focus:outline-none"
                   >
-                    <option value="patient">Patient</option>
-                    <option value="doctor">Doctor</option>
+                    <option value="patient">User</option>
+                    <option value="doctor">Owner</option>
                   </select>
-                </label>
+                </label> */}
+
+<label className="text-headingColor font-bold text-[16px] leading-7">
+          Are you a :
+          <select
+            name="role"
+            value={formData.role}
+            onChange={handleInputChange}
+            className="text-textColor font-semibold text-[15px] leading-7 px-4 py-3 focus:outline-none"
+          >
+            <option value="patient">User</option>
+            <option value="doctor">Owner</option>
+          </select>
+        </label>
+
+        {isOwner && (
+        <div>
+          <label htmlFor="parkingName"></label>
+          <input
+            type="text"
+            id="parkingName"
+            name="parkingName"
+            value={formData.parkingName}
+            placeholder="Parking Area Name"
+            onChange={handleInputChange}
+            className="w-full px-4 py-3 border-b border-solid border-[#0066ff61] focus:outline-none 
+            focus:border-b-primaryColor text-[16px] leading-7 text-headingColor 
+            placeholder:text-textColor rounded-md cursor-pointer"
+          />
+          <br />
+
+          <label htmlFor="slotsAvailable"></label>
+          <input
+            type="text"
+            id="slotsAvailable"
+            name="slotsAvailable"
+            value={formData.slotsAvailable}
+            onChange={handleInputChange}
+            placeholder="Total Slots"
+            className="w-full px-4 py-3 border-b border-solid border-[#0066ff61] focus:outline-none 
+            focus:border-b-primaryColor text-[16px] leading-7 text-headingColor 
+            placeholder:text-textColor rounded-md cursor-pointer"
+          />
+          <br />
+        </div>
+      )}
+ 
+
+
+                
 
                 <label className="text-headingColor font-bold text-[16px] leading-7">
                   Gender :
@@ -150,7 +205,7 @@ const Signup = () => {
                     value={formData.gender}
                     onChange={handleInputChange}
                     className="text-textColor font-semibold text-[15px] leading-7 px-4
-                  py-3 focus:outline-none"
+                  py-5 focus:outline-none"
                     required
                   >
                     <option value="">select</option>

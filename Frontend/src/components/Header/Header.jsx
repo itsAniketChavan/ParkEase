@@ -1,6 +1,6 @@
 import { useEffect, useRef, useContext } from "react";
 
-import logo from "../../assets/images/logo.png";
+import logo from "../../assets/images/logo9.png";
 import userImg from "../../assets/images/avatar-icon.png";
 import { BiMenu } from "react-icons/bi";
 import { NavLink, Link } from "react-router-dom";
@@ -13,7 +13,8 @@ const navLinks = [
     display: "Home",
   },
   {
-    path: "/doctors",
+    // path: "/doctors",
+    path: "/Owners",
     display: "Find a Owner",
   },
   {
