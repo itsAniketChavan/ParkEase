@@ -40,7 +40,7 @@ Impact and Benefits :
 The Smart Parking Management System aims to improve urban parking management significantly. By providing a reliable platform for parking area owners and users, we reduce inefficiencies, ease traffic congestion, and contribute to a more sustainable urban environment. Parking area owners benefit from increased visibility and efficient management, while users enjoy a hassle-free experience when searching for and reserving parking spots. This project's impact extends beyond convenience to address environmental issues, making urban areas more livable and efficient.
 
 
-### Technology Used : Modern Web Technologies
+### Technology Used : Modern Web Technologies, MERN Stack
 
 ### Required Software Development Kit : ReactJs, Nodejs, MongoDB, Cloudinary, JWT, Bcrypt, VScode
 
