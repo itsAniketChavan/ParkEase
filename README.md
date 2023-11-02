@@ -13,7 +13,7 @@ Architecture Diagram Link -
 
 ### Project Name : ParkEase
 
-Project Features :
+### Project Features :
 
   1] Real-Time Availability Updates: Parking area owners can update spot availability in real-time, ensuring accurate information for users.
 
@@ -25,7 +25,7 @@ Project Features :
 
   5] Communication Bridge: Facilitate easy communication by providing contact information for parking area owners, enabling users to make inquiries and meet specific needs.
 
-Description : 
+### Description : 
 
 Paragraph 1: Introduction
 The Smart Parking Management System is a cutting-edge solution designed to revolutionize urban parking management. The current state of parking in urban areas often leads to inefficiency, frustration, and traffic congestion. Our system addresses these challenges by providing real-time updates to both parking area owners and users. Parking area administrators have the capability to update critical details like location, availability, and pricing, ensuring that information remains accurate and up-to-date. On the user side, our platform offers a user-friendly map interface that allows individuals to effortlessly discover available parking areas, make reservations, and complete the booking process online. By enhancing the user experience and enabling seamless communication with parking area owners, we aim to make parking management more convenient and sustainable.
@@ -37,9 +37,9 @@ Paragraph 3: Impact and Benefits
 The Smart Parking Management System aims to improve urban parking management significantly. By providing a reliable platform for parking area owners and users, we reduce inefficiencies, ease traffic congestion, and contribute to a more sustainable urban environment. Parking area owners benefit from increased visibility and efficient management, while users enjoy a hassle-free experience when searching for and reserving parking spots. This project's impact extends beyond convenience to address environmental issues, making urban areas more livable and efficient.
 
 
-Technology Used :
+### Technology Used :
 
-Required Software Development Kit :
+### Required Software Development Kit :
 
 
 
