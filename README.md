@@ -15,7 +15,7 @@ Project Name : ParkEase
 
 Project Features :
 
-**1] Real-Time Availability Updates:** Parking area owners can update spot availability in real-time, ensuring accurate information for users.
+1] Real-Time Availability Updates: Parking area owners can update spot availability in real-time, ensuring accurate information for users.
 
 2] User-Friendly Interface: Users can easily find and select parking areas on an interactive map for a seamless booking experience.
 
