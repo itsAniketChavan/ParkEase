@@ -6,7 +6,7 @@ Video Link (Working Prototype) - https://www.youtube.com/watch?v=4G5ScpHkuLA
 
 PPT Link - 
 
-Architecture Diagram Link - 
+Architecture Diagram Link - https://drive.google.com/file/d/1F5H-KbVxTqa5iozh713TpYPfwZp3bE_U/view?usp=sharing
 
 
 ## Project Description - 
