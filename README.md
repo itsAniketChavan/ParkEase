@@ -4,7 +4,7 @@
 
 Video Link (Working Prototype) - https://www.youtube.com/watch?v=4G5ScpHkuLA 
 
-PPT Link - https://drive.google.com/file/d/1hZUSO20W0Lx4BKDsgtU-ScPqo9JJGsg0/view?usp=sharing
+PPT Link - [https://drive.google.com/file/d/1hZUSO20W0Lx4BKDsgtU-ScPqo9JJGsg0/view?usp=sharing](https://drive.google.com/file/d/17XfOGzyOqSK9phqrRR9ZaDhRh5ecvupR/view?usp=sharing)
 
 Architecture Diagram Link - [https://drive.google.com/file/d/1F5H-KbVxTqa5iozh713TpYPfwZp3bE_U/view?usp=sharing](https://drive.google.com/file/d/1Hw0NttDs8nPVoUiYMzDoOvtnM8mN-PUC/view?usp=sharing)
 
