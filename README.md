@@ -2,7 +2,7 @@
 
 ### Links -
 
-Video Link (Working Prototype) - https://www.youtube.com/watch?v=4G5ScpHkuLA 
+Video Link (Working Prototype) - [https://www.youtube.com/watch?v=4G5ScpHkuLA ](https://youtu.be/AsZ9BGbvABc?si=iYshH0PDwTiKFtDR)
 
 PPT Link - [https://drive.google.com/file/d/1hZUSO20W0Lx4BKDsgtU-ScPqo9JJGsg0/view?usp=sharing](https://drive.google.com/file/d/17XfOGzyOqSK9phqrRR9ZaDhRh5ecvupR/view?usp=sharing)
 
