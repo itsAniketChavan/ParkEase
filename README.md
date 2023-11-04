@@ -8,7 +8,7 @@ Link 1 - [https://www.youtube.com/watch?v=4G5ScpHkuLA ](https://youtu.be/AsZ9BGb
 
 Link 2-  https://clipchamp.com/watch/bxub5R5B529
 
-PPT Link - [https://drive.google.com/file/d/1hZUSO20W0Lx4BKDsgtU-ScPqo9JJGsg0/view?usp=sharing](https://drive.google.com/file/d/17XfOGzyOqSK9phqrRR9ZaDhRh5ecvupR/view?usp=sharing)
+PPT Link - https://drive.google.com/file/d/1svUmGQ-3tRJnU27ybDuZSFUyc9JIaFm1/view?usp=sharing
 
 Architecture Diagram Link - [https://drive.google.com/file/d/1F5H-KbVxTqa5iozh713TpYPfwZp3bE_U/view?usp=sharing](https://drive.google.com/file/d/1Hw0NttDs8nPVoUiYMzDoOvtnM8mN-PUC/view?usp=sharing)
 
