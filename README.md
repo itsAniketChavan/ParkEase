@@ -2,7 +2,7 @@
 
 ### Links -
 
-Video Link (Working Prototype) - Same video availabel on both the links
+Video Link (Working Prototype) - Same video available on both the links
 
 Link 1 - [https://www.youtube.com/watch?v=4G5ScpHkuLA ](https://youtu.be/AsZ9BGbvABc?si=iYshH0PDwTiKFtDR)
 
